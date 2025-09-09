@@ -7,8 +7,7 @@
 🎯 What I do	🛠️ Core technologies	🌐 Notable achievements
 
 Front‑end	React, Redux, Next.js, Three.js, TypeScript, CSS‑Modules, Tailwind	Reduced page‑load time of a high‑traffic site from 4 s → 2.4 s (‑40 %)
-Back‑end	PHP (WordPress, Laravel), MySQL, Node.js (Express)	Built a custom WordPress plugin that handled 1 M+ monthly visits
-Blockchain	Solidity, Hardhat, Ethers.js	Deployed a token contract on Ethereum mainnet with 100 % test coverage
+Back‑end	PHP (WordPress, Laravel), MySQL, Node.js (Express), Blockchain	Solidity, Hardhat, Ethers.js	Deployed a token contract on Ethereum mainnet with 100 % test coverage
 DevOps	Docker, GitHub Actions, CI/CD pipelines, Bash scripting	Automated end‑to‑end builds for all projects, cutting release time from days to minutes
 Performance & SEO	Lighthouse, Webpack, Vite, Server‑Side Rendering (SSR)	Boosted Core Web Vitals to ≥ 90 on multiple client sites
 
