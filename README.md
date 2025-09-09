@@ -1,39 +1,67 @@
-👋 Hi there! I’m Kirill (aka Vimpil) – a Full‑Stack Engineer based in Podgorica, Montenegro
+# Kirill Shevchenko  
+**Full Stack Developer | React, Redux, Next.js | Web & 3D Development**  
+📧 vimpilteam@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/lifetrue/) | 🔗 [GitHub](https://github.com/Vimpil)  
+📍 Podgorica, Montenegro | 📱 +382 69 940 376  
 
-🗓️ 5 + years building web‑applications that scale, run fast, and stay secure. I love turning ideas into polished products, whether it’s a React SPA, a WordPress‑powered site, or a blockchain‑enabled dApp.
+---
 
-🔎 Quick Summary
+## Summary
+- **Full-stack developer** with experience in React, Redux, Next.js, PHP, MySQL, Node.js, and WordPress.  
+- **3D web applications** using Three.js and WebGL, optimizing load times and interactivity ([3D Map Explorer](https://youtubeshot.github.io/)).  
+- **Solidity blockchain projects**, deploying ERC-20 tokens with full test coverage ([Crypto-Wallet DApp](https://github.com/Vimpil/eth-wallet-dashboard)).  
+- Experienced in **responsive design, performance optimization, and CMS development** ([login_plugin_wp](https://github.com/Vimpil/login_plugin_wp)).  
+- Strong background in **3D modeling and visualization**, including Blender, ZBrush, 3D Max, Maya, and CNC workflows.  
 
-🎯 What I do	🛠️ Core technologies	🌐 Notable achievements
+---
 
-Front‑end	React, Redux, Next.js, Three.js, TypeScript, CSS‑Modules, Tailwind	Reduced page‑load time of a high‑traffic site from 4 s → 2.4 s (‑40 %)
-Back‑end	PHP (WordPress, Laravel), MySQL, Node.js (Express), Blockchain	Solidity, Hardhat, Ethers.js	Deployed a token contract on Ethereum mainnet with 100 % test coverage
-DevOps	Docker, GitHub Actions, CI/CD pipelines, Bash scripting	Automated end‑to‑end builds for all projects, cutting release time from days to minutes
-Performance & SEO	Lighthouse, Webpack, Vite, Server‑Side Rendering (SSR)	Boosted Core Web Vitals to ≥ 90 on multiple client sites
+## Highlighted Projects
 
-📂 Highlighted Projects
-Project	Stack	Live demo	Source
-Drum Machine – interactive music app (FreeCodeCamp)	React, Tone.js, Styled‑Components	demo	GitHub
-3D Map Explorer – real‑time globe visualisation	Three.js, WebGL, Node/Express API	demo	GitHub
-Crypto‑Wallet DApp – ERC‑20 token manager	Solidity, Hardhat, React, Ethers.js	demo	GitHub
-WordPress Performance Plugin – cache & lazy‑load	PHP, MySQL, WP hooks	N/A (private client)	GitHub (private)
-Full‑Stack Blog Platform – SSR, auth, markdown editor	Next.js, Prisma, PostgreSQL, Docker	demo	GitHub
-(Feel free to explore the rest of my repos – many are experimental demos, utilities, or learning exercises.)
+| Project | Stack | Description | Source |
+|---------|-------|-------------|--------|
+| **Japanese Language Project – BetsuNippon** | WordPress, PHP, SQLite | Lightweight WordPress site for Japanese learners with custom plugins, Excel embedding, flexible and scalable | [Live Demo](https://www.betsunippon.us.to/) |
+| **Colnect.com Optimization** | PHP, MySQL, Bash | Optimized SQL queries for 1M+ visitors, implemented Bash scripts for spam bot detection | Private |
+| **Instant Pickup Delivery** | WordPress, PHP, Mapbox, Stripe | Enhanced WordPress theme for delivery service with maps, payments, and UX improvements | Private |
+| **3D Map Explorer** | Three.js, WebGL, Node/Express API | Real-time interactive globe visualization | [Live Demo](https://youtubeshot.github.io/) |
+| **Crypto-Wallet DApp** | Solidity, Hardhat, React, Ethers.js | ERC-20 token manager with test coverage, deployed on Ethereum | [GitHub](https://github.com/Vimpil/eth-wallet-dashboard) |
+| **login_plugin_wp** | PHP, WordPress hooks | Educational WordPress plugin | [GitHub](https://github.com/Vimpil/login_plugin_wp) |
 
-📈 Stats & Badges
+---
 
+## Core Skills
 
-📫 Get in Touch
-LinkedIn: [Kirill (Lifetrue)](https://www.linkedin.com/in/lifetrue/)
-Email: vimpilteam@gmail.com
-Telegram: @CogsworthPrime
+**Frontend:** React, Redux, Next.js, Three.js, JavaScript, TypeScript, HTML, CSS, Tailwind, CSS Modules  
+**Backend:** PHP, MySQL, WordPress, Laravel, Node.js  
+**CMS & Tools:** WordPress, WooCommerce, Jekyll, Git, GitHub, GitLab, Docker, Postman, Figma  
+**3D & Graphics:** Blender, 3D Max, Maya, ZBrush, Matrix, Gemvision, Photoshop, After Effects  
+**DevOps & Performance:** CI/CD pipelines, Web Performance, SQL Optimization, Bash scripting  
+**Blockchain:** Solidity, Hardhat, Ethers.js  
+**Methodologies:** Agile, Scrum, Responsive Design, UI/UX  
 
-🚀 Looking for
-Remote Full‑Stack positions (React/Next.js + Node/PHP)
-Blockchain‑focused roles (Solidity, dApp development)
-Opportunities where I can lead performance optimisation and CI/CD automation
+---
 
-💰 Expected compensation: €1 500 +/month after a short trial period (flexible based on scope & responsibilities).
+## Education & Certificates
 
-🙏 Thanks for stopping by!
-If you like what you see, feel free to ⭐ any repo, open an issue, or just say hello. I’m always happy to discuss tech, collaborate on open‑source, or explore new challenges.
+- **Metropolitan University** | IT Courses | 2024–Present  
+- **Solidity Zero to Hero** | CodiesAlert | 04/2024  
+- **Data Analysis with Python** | freeCodeCamp | 01/2024  
+- **Front End Libraries** | freeCodeCamp | 08/2020  
+- **JavaScript Algorithms and Data Structures** | freeCodeCamp | 06/2020  
+- **Responsive Web Design** | freeCodeCamp | 11/2018  
+
+---
+
+## Languages
+
+- English: Professional Working  
+- Serbian: Limited Working  
+- Russian: Native  
+
+---
+
+## Contact
+
+- 📧 vimpilteam@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lifetrue/)  
+- 🔗 [GitHub](https://github.com/Vimpil)  
+- 📱 +382 69 940 376  
+- 📍 Podgorica, Montenegro  
