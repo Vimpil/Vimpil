@@ -21,10 +21,10 @@
 | **Japanese Language Project – BetsuNippon** | WordPress, PHP, SQLite | Lightweight WordPress site for Japanese learners with custom plugins, Excel embedding, flexible and scalable | [Live Demo](https://www.betsunippon.us.to/) |
 | **Colnect.com Optimization** | PHP, MySQL, Bash | Optimized SQL queries for 1M+ visitors, implemented Bash scripts for spam bot detection | Private |
 | **Instant Pickup Delivery** | WordPress, PHP, Mapbox, Stripe | Enhanced WordPress theme for delivery service with maps, payments, and UX improvements | Private |
+| **OneBrain AI Startup** | React, Redux, Next.js, Postman | Led frontend development for AI startup, including animations via After Effects; delivered responsive, interactive, and visually appealing UI | Private |
 | **3D Map Explorer** | Three.js, WebGL, Node/Express API | Real-time interactive globe visualization | [Live Demo](https://youtubeshot.github.io/) |
 | **Crypto-Wallet DApp** | Solidity, Hardhat, React, Ethers.js | ERC-20 token manager with test coverage, deployed on Ethereum | [GitHub](https://github.com/Vimpil/eth-wallet-dashboard) |
 | **login_plugin_wp** | PHP, WordPress hooks | Educational WordPress plugin | [GitHub](https://github.com/Vimpil/login_plugin_wp) |
-
 ---
 
 ## Core Skills
