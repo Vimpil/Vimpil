@@ -33,7 +33,7 @@
 **Frontend:** React, Redux, Next.js, Three.js, JavaScript, TypeScript, HTML, CSS, Tailwind, CSS Modules  
 **Backend:** PHP, MySQL, WordPress, Laravel, Node.js  
 **CMS & Tools:** WordPress, WooCommerce, Git, GitHub, GitLab, Docker, Postman, Figma  
-**3D & Graphics:** Blender, 3D Max, Maya, ZBrush, Matrix, Gemvision, Photoshop, After Effects  
+**3D & Graphics:** Blender, 3D Max, Maya, ZBrush, Matrix Gemvision, Photoshop, After Effects  
 **DevOps & Performance:** CI/CD pipelines, Web Performance, SQL Optimization, Bash scripting  
 **Blockchain:** Solidity, Hardhat, Ethers.js  
 **Methodologies:** Agile, Scrum, Responsive Design, UI/UX  
