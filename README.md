@@ -1,65 +1,68 @@
-# Kirill Shevchenko  
-**Full Stack Developer | React, Redux, Next.js | Web & 3D Development**  
-📧 vimpilteam@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/lifetrue/) | 🔗 [GitHub](https://github.com/Vimpil)  
-📍 Podgorica, Montenegro | 📱 +382 69 940 376  
+# Kirill Shevchenko
+
+**Full Stack Developer | React • Next.js • PHP • WordPress | 3D Web & Web3**
+
+> Building high-performance web applications with strong focus on backend logic, user experience, and interactive 3D visualizations.
+
+📍 Podgorica, Montenegro  
+📧 vimpilteam@gmail.com  
+📱 +382 69 940 376  
+[LinkedIn](https://www.linkedin.com/in/lifetrue/) | [GitHub](https://github.com/Vimpil)
 
 ---
 
-## Summary
-- **Full-stack developer** with professional experience in React, Redux, Next.js, PHP, MySQL, Node.js, and WordPress.  
-- **3D web applications** using Three.js and WebGL, optimizing load times and interactivity ([3D Map Explorer](https://youtubeshot.github.io/)).  
-- **Solidity blockchain projects**, deploying ERC-20 tokens with full test coverage ([Crypto-Wallet DApp](https://github.com/Vimpil/eth-wallet-dashboard)).  
-- Experienced in **performance optimization, responsive design, and CMS development**.  
-- Strong background in **3D modeling, visualization, and CNC workflows**, including Blender, ZBrush, 3D Max, Maya.  
+### 👨‍💻 About Me
+Full Stack developer with **7+ years** of hands-on experience in web development.  
+Specialized in **React/TypeScript** frontends, **PHP/MySQL** backends, and **WordPress** custom solutions. Passionate about performance optimization, clean architecture, and creating intuitive user interfaces — including interactive 3D web experiences with Three.js/WebGL.
+
+Currently focused on building scalable full-stack solutions and exploring Web3 technologies.
 
 ---
 
-## Highlighted Professional Projects
+### 🔥 Highlighted Projects
 
-| Project | Stack | Description | Source |
-|---------|-------|-------------|--------|
-| **Japanese Language Project – BetsuNippon** | WordPress, PHP, SQLite | Lightweight WordPress site for Japanese learners with custom plugins, Excel embedding, flexible and scalable. | Private |
-| **Instant Pickup Delivery Project** | WordPress, PHP, WooCommerce | Custom WordPress theme for delivery service in London with Mapbox, Google, Stripe APIs; optimized UX. | Private |
-| **Colnect.com Optimization** | PHP, MySQL, Bash | SQL optimization for 1M+ monthly visitors, automated spam detection scripts. | Private |
-| **OneBrain Frontend App** | React, Redux, Next.js, Postman | Startup frontend with OpenAI integration, animations, highly responsive UX; professional production-level app. | Private |
-| **3D Map Explorer** | Three.js, WebGL, Node/Express API | Real-time interactive globe visualization for commercial/educational purposes. | [Demo](https://youtubeshot.github.io/) |
-| **Crypto-Wallet DApp** | Solidity, Hardhat, React, Ethers.js | ERC-20 token manager deployed on Ethereum mainnet with full test coverage. | [GitHub](https://github.com/Vimpil/eth-wallet-dashboard) |
-| **login_plugin_wp** | PHP, WordPress hooks | Custom plugin demonstrating advanced WordPress development skills. | [GitHub](https://github.com/Vimpil/login_plugin_wp) |
-
----
-
-## Core Skills
-
-**Frontend:** React, Redux, Next.js, Three.js, JavaScript, TypeScript, HTML, CSS, Tailwind, CSS Modules  
-**Backend:** PHP, MySQL, WordPress, Laravel, Node.js  
-**CMS & Tools:** WordPress, WooCommerce, Git, GitHub, GitLab, Docker, Postman, Figma  
-**3D & Graphics:** Blender, 3D Max, Maya, ZBrush, Matrix Gemvision, Photoshop, After Effects  
-**DevOps & Performance:** CI/CD pipelines, Web Performance, SQL Optimization, Bash scripting  
-**Blockchain:** Solidity, Hardhat, Ethers.js  
-**Methodologies:** Agile, Scrum, Responsive Design, UI/UX  
+| Project                        | Technologies                          | Description                                      | Links |
+|-------------------------------|---------------------------------------|--------------------------------------------------|-------|
+| **ETH Wallet Dashboard**      | React, TypeScript, Vite, Web3.js, Framer Motion | Modern Ethereum wallet interface with real-time tracking and clean UX | [GitHub](https://github.com/Vimpil/eth-wallet-dashboard) |
+| **Tile Expert API Service**   | PHP, MySQL, Manticore Search, Docker, SOAP | Production-ready API with pagination, search and order system | [GitHub](https://github.com/Vimpil/tileExpertMiddlePHPtestTask) |
+| **BetsuNippon**               | WordPress, PHP, SQLite, Custom Plugins | Japanese language platform for 1,000+ users with embedded Excel and events | Private (Demo available) |
+| **Privacy AI Gateway**        | Python, FastAPI, Encryption           | Privacy-first AI proxy with client-side encryption | [GitHub](https://github.com/Vimpil/privacy-ai-gateway) |
+| **WhatsApp Media Crypto**     | PHP, OpenSSL, PSR-7                   | Open-source library for encrypting WhatsApp media files | [GitHub](https://github.com/Vimpil/whatsapp-media-crypto) |
+| **3D Map Explorer**           | Three.js, WebGL, Blender              | Interactive 3D globe visualization | [Live Demo](https://youtubeshot.github.io/) |
 
 ---
 
-## Education & Certificates
+### 🛠 Core Skills
 
-- **Metropolitan University** | IT Courses | 2024–Present  
-- **Solidity Zero to Hero** | CodiesAlert | 04/2024  
-- **Data Analysis with Python** | freeCodeCamp | 01/2024  
+**Frontend**  
+React • Next.js • TypeScript • Redux • Tailwind • Three.js / WebGL • Framer Motion
+
+**Backend & CMS**  
+PHP 7.4+ • Laravel • Symfony • WordPress & WooCommerce • MySQL Optimization • REST APIs
+
+**3D & Visualization**  
+Three.js • WebGL • Blender • 3D Max • Maya • ZBrush • glTF
+
+**Blockchain**  
+Solidity • Hardhat • Ethers.js • ERC-20 • Ethereum Integration
+
+**Other**  
+Python (Data Analysis) • Docker • Git • Bash • SQL Optimization • Agile/Scrum
 
 ---
 
-## Languages
-
-- English: Professional Working  
-- Serbian: Limited Working  
-- Russian: Native  
+### 📚 Education & Certificates
+- **Metropolitan University** – IT Courses (Python, Fundamentals of IT) | 2024 – Present
+- **Solidity Zero to Hero** – CodiesAlert | 2024
+- **Data Analysis with Python** – freeCodeCamp | 2024
 
 ---
 
-## Contact
+### 🌐 Let's Connect
+Open to **remote opportunities** (Middle Full Stack / Web3 Frontend / PHP+React roles).
 
-- 📧 vimpilteam@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lifetrue/)  
-- 🔗 [GitHub](https://github.com/Vimpil)  
-- 📱 +382 69 940 376  
-- 📍 Podgorica, Montenegro  
+Feel free to reach out if you need a reliable developer who delivers clean, performant code.
+
+---
+
+*Last updated: April 2026*
