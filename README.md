@@ -54,7 +54,7 @@ Building scalable backend systems, REST APIs, payment integrations, and high-per
 Production-ready REST API for tile pricing and order management with advanced search, pagination, and external SOAP integration. Fully Dockerized backend system.
 
 **Stack:** PHP, MySQL, Manticore Search, Docker, SOAP
-[→ View Repository](https://github.com/Vimpil/tileExpertMiddlePHPtestTask)
+[→ View Repository](https://github.com/Vimpil/order-management-api-symfony)
 
 ---
 
