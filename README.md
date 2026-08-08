@@ -81,7 +81,7 @@ React-based dashboard for Ethereum wallet interaction, transaction tracking, and
 
 ## 📊 Experience Summary
 
-7+ years of experience in backend engineering, focused on building scalable APIs, fintech systems, and production-grade backend architectures.
+11+ years of experience in backend engineering, focused on building scalable APIs, fintech systems, and production-grade backend architectures.
 
 Strong experience in:
 - REST API design and system architecture
