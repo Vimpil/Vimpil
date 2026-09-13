@@ -1,14 +1,14 @@
 # Kirill Shevchenko
 
-**Senior Backend Engineer | PHP (Symfony) | API Architecture | Fintech Systems**
+**Senior Backend Engineer | PHP (Symfony) | API Architecture | Fintech & Payments**
 
-Backend engineer focused on designing and building scalable API systems, backend architectures, and production-grade fintech applications.
+Backend engineer focused on designing, improving, and maintaining production backend systems, scalable APIs, and fintech applications.
 
-I specialize in PHP (Symfony), REST API design, MySQL optimization, and system architecture for high-load and data-critical environments. My focus is on building reliable backend systems with strong consistency, performance, and maintainability.
+I specialize in PHP (Symfony), REST API design, database optimization, authentication and secure backend systems. My experience includes payment integrations, high-load environments, legacy systems, production debugging, and performance-critical applications.
 
-📍 Podgorica, Montenegro  
-📧 vimpilteam@gmail.com  
-📱 +382 69 940 376  
+📍 Podgorica, Montenegro
+📧 [vimpilteam@gmail.com](mailto:vimpilteam@gmail.com)
+📱 +382 69 940 376
 [LinkedIn](https://www.linkedin.com/in/lifetrue/) • [GitHub](https://github.com/Vimpil)
 
 ---
@@ -16,25 +16,31 @@ I specialize in PHP (Symfony), REST API design, MySQL optimization, and system a
 ## 🛠 Core Skills
 
 ### Backend Engineering (Primary Focus)
+
 * PHP 7.4+, Symfony, Laravel
 * REST API design & system architecture
-* Payment systems & transaction workflows
-* Authentication & secure backend systems
+* Payment integrations & transaction workflows
+* Authentication, authorization & secure backend systems
+* Legacy system modernization & safe incremental changes
+* Production debugging & backend reliability
 * Clean architecture & scalable backend design
 
 ### Databases
+
 * MySQL, MariaDB
 * Query optimization & indexing strategies
 * High-load database design
 * Performance tuning & bottleneck analysis
 
 ### Infrastructure & DevOps
+
 * Docker & containerized environments
 * CI/CD pipelines
 * Linux-based deployment workflows
 * Git, Bash, Postman
 
 ### Frontend (Supporting Role)
+
 * React, Next.js, TypeScript
 * UI integration for API-driven systems
 
@@ -43,27 +49,30 @@ I specialize in PHP (Symfony), REST API design, MySQL optimization, and system a
 ## 🔥 Selected Projects
 
 ### Production REST API Platform (Order & Pricing System)
+
 Backend system for order management with external integrations, search capabilities, and SOAP services.
 
-Built with Symfony, focusing on clean architecture, scalability, and performance in production environments.
+Built with Symfony with a focus on clean architecture, API design, database performance, and reliable production workflows.
 
-**Tech:** PHP, Symfony, REST API, MySQL, Docker  
+**Tech:** PHP, Symfony, REST API, MySQL, Docker
 🔗 https://github.com/Vimpil/order-management-api-symfony
 
 ---
 
 ### Secure Media Encryption Library (PHP Streaming Architecture)
-Production-grade PHP library for encrypting and decrypting media files (images, video, audio, documents).
+
+Production-grade PHP library for encrypting and decrypting media files including images, video, audio, and documents.
 
 Implements PSR-7 streaming architecture for memory-efficient processing of large files, with cryptographic integrity and secure media pipelines.
 
-**Tech:** PHP, OpenSSL, PSR-7, Streaming Systems  
+**Tech:** PHP, OpenSSL, PSR-7, Streaming Systems
 🔗 https://github.com/Vimpil/whatsapp-media-crypto
 
 ---
 
 ### Privacy-First AI Gateway (Secure API Proxy)
-Backend system for secure routing of AI requests across multiple providers.
+
+Backend system for secure routing of API requests across multiple AI providers.
 
 Implements authentication, encrypted request handling, provider abstraction, audit logging, and scalable API routing architecture.
 
@@ -72,23 +81,28 @@ Implements authentication, encrypted request handling, provider abstraction, aud
 ---
 
 ### ETH Wallet Dashboard (Frontend Support Project)
+
 React-based dashboard for Ethereum wallet interaction, transaction tracking, and Web3 integration.
 
-**Tech:** React, TypeScript, Web3.js, Vite  
+**Tech:** React, TypeScript, Web3.js, Vite
 🔗 https://github.com/Vimpil/eth-wallet-dashboard
 
 ---
 
 ## 📊 Experience Summary
 
-11+ years of experience in backend engineering, focused on building scalable APIs, fintech systems, and production-grade backend architectures.
+11+ years of experience in backend engineering, focused on production systems, scalable APIs, fintech and payment systems, and backend architecture.
 
 Strong experience in:
-- REST API design and system architecture
-- Payment and transaction systems
-- Database optimization in high-load environments
-- Backend performance tuning and scalability improvements
-- Secure system design for financial applications
+
+* REST API design and system architecture
+* Payment integrations and transaction processing
+* Authentication and secure backend systems
+* Legacy codebases and production debugging
+* Database optimization in high-load environments
+* Backend performance tuning and scalability improvements
+* External API and service integrations
+* Production deployment and maintenance
 
 Also experienced in frontend integration (React/TypeScript) when required for full-stack delivery.
 
@@ -99,11 +113,12 @@ Also experienced in frontend integration (React/TypeScript) when required for fu
 * Senior Backend Engineer (PHP / Symfony)
 * Backend-focused Full Stack roles
 * Fintech & payment system engineering
-* API architecture & system design roles
+* API architecture & system design
+* Legacy backend modernization and production engineering
 * Remote opportunities
 
 ---
 
 ## 📫 Contact
 
-Open to backend engineering roles focused on scalable systems, fintech infrastructure, and high-performance API design.
+Open to backend engineering roles focused on production backend systems, scalable APIs, fintech infrastructure, payment integrations, and performance-critical applications.
