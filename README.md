@@ -50,7 +50,7 @@ I specialize in PHP (Symfony), REST API design, database optimization, authentic
 
 ### Production REST API Platform (Order & Pricing System)
 
-Backend system for order management with external integrations, search capabilities, and SOAP services.
+Backend system for order management with external integrations, search capabilities, and XML POST processing.
 
 Built with Symfony with a focus on clean architecture, API design, database performance, and reliable production workflows.
 
