@@ -2,9 +2,7 @@
 
 **Senior Backend Engineer | PHP (Symfony) | API Architecture | Fintech & Payments**
 
-Backend engineer focused on designing, improving, and maintaining production backend systems, scalable APIs, and fintech applications.
-
-I specialize in PHP (Symfony), REST API design, database optimization, authentication and secure backend systems. My experience includes payment integrations, high-load environments, legacy systems, production debugging, and performance-critical applications.
+Backend engineer with 11+ years of IT experience, focused on PHP/Symfony, REST API design, database optimisation, payment integrations, authentication, legacy modernisation, and performance-critical applications.
 
 📍 Podgorica, Montenegro
 📧 [vimpilteam@gmail.com](mailto:vimpilteam@gmail.com)
@@ -13,112 +11,53 @@ I specialize in PHP (Symfony), REST API design, database optimization, authentic
 
 ---
 
-## 🛠 Core Skills
+## 🛠 Skills
 
-### Backend Engineering (Primary Focus)
-
-* PHP 7.4+, Symfony, Laravel
-* REST API design & system architecture
-* Payment integrations & transaction workflows
-* Authentication, authorization & secure backend systems
-* Legacy system modernization & safe incremental changes
-* Production debugging & backend reliability
-* Clean architecture & scalable backend design
-
-### Databases
-
-* MySQL, MariaDB
-* Query optimization & indexing strategies
-* High-load database design
-* Performance tuning & bottleneck analysis
-
-### Infrastructure & DevOps
-
-* Docker & containerized environments
-* CI/CD pipelines
-* Linux-based deployment workflows
-* Git, Bash, Postman
-
-### Frontend (Supporting Role)
-
-* React, Next.js, TypeScript
-* UI integration for API-driven systems
+**Backend:** PHP 7.4+, Symfony, Laravel · REST API design · Payment integrations · Authentication & authorisation · Legacy modernisation · Production debugging  
+**Database:** MySQL, MariaDB · Query optimisation & indexing · High-load design  
+**Infrastructure:** Docker · CI/CD · Linux deployment · Git  
+**Frontend (supporting):** React, Next.js, TypeScript
 
 ---
 
 ## 🔥 Selected Projects
 
-### Production REST API Platform (Order & Pricing System)
+### [Order Management API](https://github.com/Vimpil/order-management-api-symfony) [![PHPUnit Tests](https://github.com/Vimpil/order-management-api-symfony/actions/workflows/tests.yml/badge.svg)](https://github.com/Vimpil/order-management-api-symfony/actions/workflows/tests.yml)
 
-Backend system for order management with external integrations, search capabilities, and XML POST processing.
+Symfony 7.2 REST API — XML order ingestion, external price scraping, Manticore Search full-text, MySQL, Docker Compose.
 
-Built with Symfony with a focus on clean architecture, API design, database performance, and reliable production workflows.
-
-**Tech:** PHP, Symfony, REST API, MySQL, Docker
-🔗 https://github.com/Vimpil/order-management-api-symfony
+**Tech:** PHP, Symfony 7.2, MySQL, Docker
 
 ---
 
-### Secure Media Encryption Library (PHP Streaming Architecture)
+### [Library API](https://github.com/Vimpil/library-api)
 
-Production-grade PHP library for encrypting and decrypting media files including images, video, audio, and documents.
+Symfony 7.4 REST API — 97 PHPUnit tests, CRUD with filtering, pagination, PUT/PATCH semantics, and Messenger-based write dispatch.
 
-Implements PSR-7 streaming architecture for memory-efficient processing of large files, with cryptographic integrity and secure media pipelines.
-
-**Tech:** PHP, OpenSSL, PSR-7, Streaming Systems
-🔗 https://github.com/Vimpil/whatsapp-media-crypto
+**Tech:** PHP, Symfony 7.4, SQLite, Docker
 
 ---
 
-### Privacy-First AI Gateway (Secure API Proxy)
+### [WhatsApp Media Crypto](https://github.com/Vimpil/whatsapp-media-crypto) · [Packagist](https://packagist.org/packages/vimpil/whatsapp-media-crypto)
 
-Backend system for secure routing of API requests across multiple AI providers.
+PHP Composer library for WhatsApp media encryption — PSR-7 stream decorators, HKDF key derivation, AES-CBC, sidecar generation for video and audio.
 
-Implements authentication, encrypted request handling, provider abstraction, audit logging, and scalable API routing architecture.
+```bash
+composer require vimpil/whatsapp-media-crypto
+```
 
-**Tech:** Python, FastAPI, REST API, Security Architecture
-
----
-
-### ETH Wallet Dashboard (Frontend Support Project)
-
-React-based dashboard for Ethereum wallet interaction, transaction tracking, and Web3 integration.
-
-**Tech:** React, TypeScript, Web3.js, Vite
-🔗 https://github.com/Vimpil/eth-wallet-dashboard
+**Tech:** PHP 7.4+, OpenSSL, PSR-7
 
 ---
 
-## 📊 Experience Summary
+### [Cipher Oracle](https://github.com/Vimpil/privacy-ai-gateway)
 
-11+ years of experience in backend engineering, focused on production systems, scalable APIs, fintech and payment systems, and backend architecture.
+Privacy-focused AI gateway — client-side AES-GCM encryption, server-side ephemeral decryption, local Ollama inference, SHA-256 tamper-evident audit chain.
 
-Strong experience in:
-
-* REST API design and system architecture
-* Payment integrations and transaction processing
-* Authentication and secure backend systems
-* Legacy codebases and production debugging
-* Database optimization in high-load environments
-* Backend performance tuning and scalability improvements
-* External API and service integrations
-* Production deployment and maintenance
-
-Also experienced in frontend integration (React/TypeScript) when required for full-stack delivery.
+**Tech:** Python, FastAPI, AES-GCM, Ollama
 
 ---
 
-## 🎯 Currently Open To
+## 🎯 Open To
 
-* Senior Backend Engineer (PHP / Symfony)
-* Backend-focused Full Stack roles
-* Fintech & payment system engineering
-* API architecture & system design
-* Legacy backend modernization and production engineering
-* Remote opportunities
-
----
-
-## 📫 Contact
-
-Open to backend engineering roles focused on production backend systems, scalable APIs, fintech infrastructure, payment integrations, and performance-critical applications.
+Senior Backend Engineer (PHP / Symfony) · Backend-focused Full Stack · Fintech & payments · API architecture · Legacy modernisation · Remote
