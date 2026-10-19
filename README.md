@@ -1,63 +1,42 @@
 # Kirill Shevchenko
 
-**Senior Backend Engineer | PHP (Symfony) | API Architecture | Fintech & Payments**
+**Senior Backend Engineer · PHP / Symfony · APIs & integrations · SQL**
 
-Backend engineer with 11+ years of IT experience, focused on PHP/Symfony, REST API design, database optimisation, payment integrations, authentication, legacy modernisation, and performance-critical applications.
+Backend engineer with 11+ years of IT experience. I work mainly with PHP and Symfony: REST and SOAP APIs, third-party integrations, SQL performance optimization and maintaining production systems. React and TypeScript are a secondary skill.
 
-📍 Podgorica, Montenegro
-📧 [vimpilteam@gmail.com](mailto:vimpilteam@gmail.com)
-📱 +382 69 940 376
-[LinkedIn](https://www.linkedin.com/in/lifetrue/) • [GitHub](https://github.com/Vimpil)
+Based in Montenegro · open to remote roles.
 
----
+## Professional experience areas
 
-## 🛠 Skills
+These come from my work history (see my [LinkedIn](https://www.linkedin.com/in/lifetrue/)). They are not all demonstrated by public repositories, and the public projects below are portfolio work.
 
-**Backend:** PHP 7.4+, Symfony, Laravel · REST API design · Payment integrations · Authentication & authorisation · Legacy modernisation · Production debugging  
-**Database:** MySQL, MariaDB · Query optimisation & indexing · High-load design  
-**Infrastructure:** Docker · CI/CD · Linux deployment · Git  
-**Frontend (supporting):** React, Next.js, TypeScript
+- **Backend:** PHP, Symfony, REST and SOAP APIs, API integrations
+- **Data:** MySQL / MariaDB, SQL performance optimization, indexing
+- **Security and payments:** authentication and authorization (OAuth/JWT), payment integrations
+- **Production work:** legacy code maintenance and modernization, debugging production issues
+- **Quality and delivery:** PHPUnit, Docker, Git, CI
 
----
+**Secondary:** React, TypeScript, Next.js, Laravel, Python.
 
-## 🔥 Selected Projects
+## Selected projects
 
-### [Order Management API](https://github.com/Vimpil/order-management-api-symfony) [![PHPUnit Tests](https://github.com/Vimpil/order-management-api-symfony/actions/workflows/tests.yml/badge.svg)](https://github.com/Vimpil/order-management-api-symfony/actions/workflows/tests.yml)
+Both projects are technical-assignment or portfolio work, not commercial products.
 
-Symfony 7.2 REST API — XML order ingestion, external price scraping, Manticore Search full-text, MySQL, Docker Compose.
+### [library-api](https://github.com/Vimpil/library-api)
 
-**Tech:** PHP, Symfony 7.2, MySQL, Docker
+Symfony 7.4 REST API for authors and books, built to a fixed technical specification. Filtering, pagination and sorting; separate PUT and PATCH semantics; request-to-DTO mapping with validation; writes dispatched as Symfony Messenger commands (synchronous transport). Doctrine migrations on SQLite, and a PHPUnit suite with 97 tests.
 
----
+### [order-management-api-symfony](https://github.com/Vimpil/order-management-api-symfony)
 
-### [Library API](https://github.com/Vimpil/library-api)
+Symfony 7.2 API built as a technical assignment: XML order ingestion, price lookup from an external provider with a controlled fallback when it is unavailable, paginated order statistics, and full-text search through Manticore Search. MySQL and Docker Compose. PHPUnit controller tests use mocked dependencies and run in GitHub Actions.
 
-Symfony 7.4 REST API — 97 PHPUnit tests, CRUD with filtering, pagination, PUT/PATCH semantics, and Messenger-based write dispatch.
+## Experiments
 
-**Tech:** PHP, Symfony 7.4, SQLite, Docker
+Personal projects, not production-grade:
 
----
+- [whatsapp-media-crypto](https://github.com/Vimpil/whatsapp-media-crypto): experimental PHP library with known correctness and security issues (see its README). Not production-ready, not an official WhatsApp implementation, and no stable release is planned.
+- [eth-wallet-dashboard](https://github.com/Vimpil/eth-wallet-dashboard): React / TypeScript Ethereum wallet dashboard.
 
-### [WhatsApp Media Crypto](https://github.com/Vimpil/whatsapp-media-crypto) · [Packagist](https://packagist.org/packages/vimpil/whatsapp-media-crypto)
+## Contact
 
-PHP Composer library for WhatsApp media encryption — PSR-7 stream decorators, HKDF key derivation, AES-CBC, sidecar generation for video and audio.
-
-```bash
-composer require vimpil/whatsapp-media-crypto
-```
-
-**Tech:** PHP 7.4+, OpenSSL, PSR-7
-
----
-
-### [Cipher Oracle](https://github.com/Vimpil/privacy-ai-gateway)
-
-Privacy-focused AI gateway — client-side AES-GCM encryption, server-side ephemeral decryption, local Ollama inference, SHA-256 tamper-evident audit chain.
-
-**Tech:** Python, FastAPI, AES-GCM, Ollama
-
----
-
-## 🎯 Open To
-
-Senior Backend Engineer (PHP / Symfony) · Backend-focused Full Stack · Fintech & payments · API architecture · Legacy modernisation · Remote
+[LinkedIn](https://www.linkedin.com/in/lifetrue/) · [vimpilteam@gmail.com](mailto:vimpilteam@gmail.com)
