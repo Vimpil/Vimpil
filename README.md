@@ -2,23 +2,26 @@
 
 **Senior Backend Engineer · PHP / Symfony · APIs · SQL & Production Systems**
 
-Backend engineer with 11+ years in IT. I work mainly with PHP and Symfony on APIs, integrations and SQL, and on maintaining and gradually improving existing production systems. React and TypeScript are secondary skills.
+Backend engineer with 11+ years in IT. I work mainly with PHP and Symfony on API integrations, SQL performance and existing production systems. React and TypeScript are secondary skills.
 
 Based in Montenegro · Open to remote roles
 
-## Core focus
+## What I work on
 
-- **APIs and integrations:** REST and SOAP APIs, third-party integrations
-- **SQL:** MySQL and MariaDB query analysis and optimization
-- **Existing systems:** debugging, maintenance and incremental modernization of legacy systems
-- **Tooling:** PHPUnit, Docker, Git
+- **Integrations:** connecting systems through REST and SOAP APIs, including payment integrations and authentication with OAuth/JWT.
+- **SQL performance:** analyzing and optimizing slow queries in MySQL and MariaDB with `EXPLAIN`. At Colnect this included joins, temporary tables and `UNION ALL`.
+- **Existing systems:** debugging and troubleshooting production code, and improving it through incremental changes.
 
-## Selected professional experience
+Main tools: PHP, Symfony, MySQL / MariaDB, PostgreSQL, Redis, Docker, Nginx, Linux, Git, PHPUnit and CI/CD. I also work with React and TypeScript.
 
-I have worked as an independent B2B developer since 2017. Some client projects are under NDA and stay anonymous here. The public repositories below are portfolio projects, not that work.
+## Professional experience
 
-- **Colnect:** Symfony backend development and MariaDB query optimization, using `EXPLAIN` and working with joins, temporary tables and `UNION ALL`.
-- **Across projects:** payment integrations, authentication and authorization (OAuth/JWT), and production troubleshooting. Also custom WordPress development and some blockchain-related work.
+- **Independent B2B developer, since September 2017.** Freelance software development. Some of it is under NDA, so it is not described here.
+- **Colnect, 2021–2022.** Symfony backend development and MariaDB query optimization.
+- **OneBrain AI, 2023.** Internship: React work on real-time synchronization.
+- **Additional experience.** Blockchain: Bitcoin PSBT/UTXO work, a Top 200 result in Summer of Bitcoin and a Solidity/Web3 competition in 2023. WordPress: custom plugins and themes, mostly non-commercial.
+
+The repositories below are portfolio projects, not that work.
 
 ## Featured projects
 
@@ -33,7 +36,7 @@ Symfony 7.4 REST API for authors and books, built to a fixed specification.
 - Request-to-DTO mapping with validation
 - Writes dispatched as Symfony Messenger commands (synchronous transport)
 - Doctrine migrations on SQLite
-- 97 PHPUnit tests
+- 97 PHPUnit tests, 229 assertions
 
 ### [order-management-api-symfony](https://github.com/Vimpil/order-management-api-symfony)
 
@@ -43,7 +46,7 @@ Symfony 7.2 API for tile orders and prices.
 - External price lookup with a controlled fallback when the provider is unavailable
 - Paginated order statistics
 - Full-text search with Manticore Search, MySQL and Docker Compose
-- PHPUnit controller tests with mocked dependencies
+- 11 PHPUnit controller tests with mocked dependencies
 
 ## Other projects
 
