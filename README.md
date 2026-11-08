@@ -63,7 +63,7 @@ Reproducible MariaDB query optimization experiments using synthetic datasets, Do
 
 ### [library-api](https://github.com/Vimpil/library-api)
 
-Symfony 7.4 REST API for authors and books, built to a fixed specification.
+Symfony 7.2 REST API for authors and books, built to a fixed specification.
 
 - Filtering, pagination and sorting
 - Separate `PUT` and `PATCH` semantics
@@ -89,4 +89,4 @@ Symfony 7.2 API for tile orders and prices.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/lifetrue/) · [vimpilteam@gmail.com](mailto:vimpilteam@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lifetrue/) · vimpilteam@gmail.com
