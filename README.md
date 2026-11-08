@@ -2,26 +2,48 @@
 
 **Senior Backend Engineer · PHP / Symfony · APIs · SQL & Production Systems**
 
-Backend engineer with 11+ years in IT. I work mainly with PHP and Symfony on API integrations, SQL performance and existing production systems. React and TypeScript are secondary skills.
+Backend engineer with 9+ years of independent software development experience. I mainly work with PHP and Symfony, focusing on API integrations, SQL performance, backend development and maintaining existing systems. I also have experience with JavaScript, TypeScript, React and Angular.
 
 Based in Montenegro · Open to remote roles
 
 ## What I work on
 
-- **Integrations:** connecting systems through REST and SOAP APIs, including payment integrations and authentication with OAuth/JWT.
-- **SQL performance:** analyzing and optimizing slow queries in MySQL and MariaDB with `EXPLAIN`. At Colnect this included joins, temporary tables and `UNION ALL`.
-- **Existing systems:** debugging and troubleshooting production code, and improving it through incremental changes.
+- **API integrations:** connecting systems through REST and SOAP APIs, including payment integrations, external services and authentication with OAuth/JWT.
+- **SQL performance:** analyzing and optimizing slow queries in MySQL and MariaDB using `EXPLAIN`. At Colnect, this included complex joins, temporary tables and `UNION ALL`.
+- **Existing systems:** debugging production code, investigating integration issues and improving reliability through incremental changes.
+- **Backend processes:** working with scheduled jobs, asynchronous operations, retries and idempotency in integration workflows.
 
-Main tools: PHP, Symfony, MySQL / MariaDB, PostgreSQL, Redis, Docker, Nginx, Linux, Git, PHPUnit and CI/CD. I also work with React and TypeScript.
+Main tools: PHP, Symfony, MySQL / MariaDB, PostgreSQL, Docker, Nginx, Linux, Git, PHPUnit and CI/CD. Additional experience with Laravel, Yii, Redis, React, Angular and TypeScript.
 
 ## Professional experience
 
-- **Independent B2B developer, since September 2017.** Freelance software development. Some of it is under NDA, so it is not described here.
-- **Colnect, 2021–2022.** Symfony backend development and MariaDB query optimization.
-- **OneBrain AI, 2023.** Internship: React work on real-time synchronization.
-- **Additional experience.** Blockchain: Bitcoin PSBT/UTXO work, a Top 200 result in Summer of Bitcoin and a Solidity/Web3 competition in 2023. WordPress: custom plugins and themes, mostly non-commercial.
+**Independent B2B developer · September 2017–present**
 
-The repositories below are portfolio projects, not that work.
+Independent software development for clients and personal projects. Some commercial work is covered by NDA and is described only at a general technical level.
+
+**Instant Pickup Delivery · 2019–2020**
+
+Backend development for a delivery platform using PHP and MySQL, with integrations including Stripe and mapping services (Google Maps / Mapbox). Also worked with JavaScript and TypeScript on the application side.
+
+**Colnect · 2021–2022**
+
+Symfony backend development and MariaDB query optimization. Investigated slow database operations involving joins, temporary tables and `UNION ALL`, improving query performance in an existing application.
+
+**OneBrain AI · 2023**
+
+Internship involving React development and real-time data synchronization.
+
+**NDA-covered backend and admin development**
+
+Part-time development and maintenance of an existing backend and administration system. Work included PHP backend functionality, WebSocket-based payment workflows, scheduled jobs, retries, idempotency, caching, CI/CD and an Angular administration interface.
+
+**Additional experience**
+
+- **Blockchain:** Bitcoin PSBT/UTXO development, a Top 200 result in Summer of Bitcoin and participation in a Solidity/Web3 competition in 2023.
+- **WordPress:** custom plugins and themes, mostly non-commercial.
+- **BetsuNippon:** independent development and maintenance of custom WordPress functionality and plugins.
+
+The repositories below are portfolio projects and technical assignments, not commercial products or representations of client work.
 
 ## Featured projects
 
