@@ -47,7 +47,19 @@ The repositories below are portfolio projects and technical assignments, not com
 
 ## Featured projects
 
-Both are technical assignments and portfolio projects, not commercial products.
+These are independent portfolio projects and technical assignments, not commercial products.
+
+### [mariadb-query-optimization-lab](https://github.com/Vimpil/mariadb-query-optimization-lab)
+
+Reproducible MariaDB query optimization experiments using synthetic datasets, Docker and execution-plan analysis.
+
+- Five optimization cases covering indexing, JOINs, GROUP BY and query execution strategies
+- MariaDB 11.4 with `EXPLAIN` and `ANALYZE`
+- Large synthetic dataset: 2M orders and 4.6M order lines
+- Interleaved benchmarks with warm-up runs and 15 measured repetitions
+- Before/after execution plans and query performance comparisons
+- Full result-equivalence checks to verify correctness
+- Documented benchmark methodology, limitations and negative results
 
 ### [library-api](https://github.com/Vimpil/library-api)
 
